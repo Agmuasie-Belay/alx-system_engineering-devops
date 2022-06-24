@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reserved 751 hello
+chmod --reference=hello 751 hello
