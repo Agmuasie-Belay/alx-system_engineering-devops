@@ -1,1 +1,2 @@
-This is the readme file for this task
+This read me file is created for the shell variables expansions project
+
